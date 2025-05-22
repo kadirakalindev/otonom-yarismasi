@@ -54,6 +54,7 @@ Motor kontrol testini çalıştırmak için:
 
 ```bash
 python main.py --test-mode motor
+kontrol iiçinnn--
 ```
 
 ### Test Araçları
